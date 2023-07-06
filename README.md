@@ -28,10 +28,10 @@
 
 ## Results :
 
-- **Accuracy Score** : 0.99 on Training Data 
-- **CV Score** : 0.76
+- **Train Accuracy Score** : 0.94 
+- **Validation Accuracy Score** : 0.71
 
 ## Notebook Links :
 
-- https://www.kaggle.com/code/rishabhkamboj2003/transformer-training
+- https://www.kaggle.com/code/rishabhkamboj2003/transformer-training?scriptVersionId=135914458
 
