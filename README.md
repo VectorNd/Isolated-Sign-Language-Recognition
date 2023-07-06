@@ -18,7 +18,7 @@
 
 ## Approach 
 
-- 
+- In the Data provided , for each frame in a video , Co-ordinates of Landmark k
 
 
 
